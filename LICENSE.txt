@@ -1,0 +1,89 @@
+KRATOS END USER LICENCE AGREEMENT
+Copyright (c) 2026 Spiry Ark SRL ("Spiry Research"). All rights reserved.
+
+By installing or running Kratos (the "Software") you accept this Agreement. If you
+do not accept it, do not install or run the Software.
+
+1. LICENCE GRANTED
+   Spiry Ark SRL grants you a non-exclusive, non-transferable, revocable licence to
+   install and run the Software, in unmodified binary form, on hardware you own or
+   lawfully control, for the purpose of mining Pearl (PRL), including commercially.
+   No other right is granted.
+
+2. DEV FEE — DISCLOSED
+   The Software mines for the benefit of Spiry Ark SRL for 1 % of its running time:
+   approximately 36 seconds of each hour, during which the pool login changes to an
+   address controlled by Spiry Ark SRL under the worker name "kratos-devfee", after
+   which it returns to yours. Your GPU does not stop and your hash rate is not
+   reduced. The first such interval occurs at a random point within the first hour,
+   so the proportion is 1 % irrespective of session length. You acknowledge this fee
+   as a condition of the licence. Interfering with, blocking, redirecting or
+   circumventing it terminates this licence immediately.
+
+3. RESTRICTIONS
+   Except to the extent that the following cannot lawfully be prohibited (see
+   section 4), you may not:
+   (a) reverse engineer, decompile, disassemble, deobfuscate or otherwise attempt to
+       derive the source code, algorithms or internal structure of the Software;
+   (b) modify, adapt, translate or create derivative works of the Software, or patch
+       or alter the binary;
+   (c) redistribute, publish, sell, rent, lease, sublicense, lend or otherwise make
+       the Software available to any third party, whether or not for charge;
+   (d) remove, obscure or alter any copyright, licence, attribution or fee notice, in
+       the Software or in its documentation;
+   (e) use the Software to develop a competing product, or to extract material for
+       inclusion in one;
+   (f) circumvent or disable any licensing, integrity or attribution mechanism.
+
+4. MANDATORY STATUTORY RIGHTS
+   Nothing in section 3 excludes or limits any right you hold that cannot be excluded
+   by agreement under applicable law. In particular, and without limitation, rights
+   of decompilation for interoperability under Article 6 of Directive 2009/24/EC of
+   the European Parliament and of the Council on the legal protection of computer
+   programs, and the corresponding provisions of Romanian Law no. 8/1996, are
+   unaffected to the extent they apply to you. Where such a right applies, it applies
+   only on the conditions that provision imposes, including that the information
+   obtained is used solely for interoperability and is not supplied to others or used
+   to develop a substantially similar program.
+
+5. OPEN-SOURCE COMPONENTS
+   The Software incorporates software made available under the MIT Licence,
+   originating in the "llmjob" project (https://github.com/super3/llmjob). The MIT
+   Licence text and copyright notice for those portions are distributed with the
+   Software in the file LICENSE-llmjob-MIT and are reproduced in full there. To the
+   extent of any conflict, the terms of the MIT Licence govern those portions, and
+   the restrictions in section 3 of this Agreement do not purport to limit any right
+   granted by the MIT Licence in respect of them. The remainder of the Software,
+   including without limitation the pool client, the host-health gate, the share
+   verifier and the build and packaging system, is the proprietary work of
+   Spiry Ark SRL.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. Mining is speculative. Spiry Ark
+   SRL does not warrant any hash rate, any quantity of accepted shares, any revenue,
+   or the availability or conduct of any mining pool. Hash rate depends heavily on
+   hardware and host configuration, including power limits and whether a GPU is
+   shared; figures published by Spiry Ark SRL state the conditions under which they
+   were measured and are not a promise of your result.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, SPIRY ARK SRL SHALL NOT BE LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, NOR FOR ANY LOSS
+   OF PROFIT, REVENUE, CRYPTOCURRENCY, DATA OR HARDWARE, ARISING OUT OF OR RELATED TO
+   THE SOFTWARE. Its total aggregate liability shall not exceed EUR 50. Nothing here
+   limits liability for death or personal injury caused by negligence, for fraud, or
+   for anything else that cannot lawfully be limited.
+
+8. TERM AND TERMINATION
+   This Agreement applies until terminated. It terminates automatically if you breach
+   any of its terms. On termination you must cease all use of the Software and delete
+   all copies.
+
+9. GOVERNING LAW
+   This Agreement is governed by the laws of Romania, and the courts of Romania have
+   exclusive jurisdiction, save for any mandatory consumer protection that gives you
+   the benefit of the law or forum of your place of residence.
+
+Spiry Ark SRL, Romania.
